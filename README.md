@@ -1,10 +1,13 @@
 # 💫 About Me:
-(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9ydWwwbnFneWNoMDB5cjh2ejlqN2k4Mno3anM4ZW1hNnQ1amh6OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v13zBct4r3aLu/giphy.gif)
-🔭 I'm currently working as a Machine Learning Researcher<br>🌱I'm currently studying Computer science <br>📫 How to reach me: codewitharnavpal@gmail.com
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9ydWwwbnFneWNoMDB5cjh2ejlqN2k4Mno3anM4ZW1hNnQ1amh6OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v13zBct4r3aLu/giphy.gif" width="300"/>
+
+🔭 I'm currently working as a Machine Learning Researcher  
+🌱 I'm currently studying Computer Science  
+📫 How to reach me: codewitharnavpal@gmail.com
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arnav-pal-331218225/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-pal-331218225/)
 
 
 # 📊 GitHub Stats:
@@ -14,6 +17,7 @@
 
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=m1000t&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
