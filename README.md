@@ -3,7 +3,7 @@
 
 🔭 I'm currently working as a Machine Learning Researcher  
 🌱 I'm currently studying Computer Science  
-📫 How to reach me: codewitharnavpal@gmail.com
+📫 How to reach me: 2arnavpal@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-pal-331218225/)
